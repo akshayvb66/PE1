@@ -1,18 +1,32 @@
+/**
+*Akshay Badiger
+*
+*Boeing India Pvt Ltd
+*
+* Stackroute
+*/
 import java.util.*;
-
+/**This class takes input word and checks if it is palindrome and calculates the sum of digits 
+ *if sum is below 25 or above
+ *
+ * @version 1.0 31-12-2018
+ *
+ * @author Akshay Badiger
+ */
 
 public class Palindrome {
 
     public static void main(String[] args)
 
     {
-
+	/*Taking the number as input*/
         int originalNumber,number,reverseNumber=0,remainder,sum=0;
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
         originalNumber=scan.nextInt();
         number=originalNumber;
 
+	/*chech if its a palindrome*/
         while(number!=0)
         {
             remainder=number%10;
@@ -36,6 +50,8 @@ public class Palindrome {
             System.out.print("The given Number"+originalNumber+" is a not palindrome ");
 
         }
+
+	/*displays the sum of digits */
         if(sum<25)
         {
             System.out.print("and sum is less than 25");

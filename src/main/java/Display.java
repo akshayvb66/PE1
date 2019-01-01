@@ -5,6 +5,7 @@
  *
  * Stackroute
  */
+package main.java;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -15,7 +16,8 @@ import java.io.InputStreamReader;
  *
  * @author Akshay Badiger
  */
-public class display {
+public class Display {
+
     public static void main(String args[]) throws IOException {
         char m;
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
@@ -44,4 +46,8 @@ public class display {
             System.out.println("Its a Special character");
         }
     }
-}
+
+
+
+    }
+

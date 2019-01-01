@@ -1,4 +1,4 @@
-/**
+package main.java; /**
 *Akshay Badiger
 *
 *Boeing India Pvt Ltd
@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author Akshay Badiger
  */
-public class stringreverse {
+public class StringReverse {
 
     public static void main(String[] args) {
 	

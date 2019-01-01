@@ -1,4 +1,4 @@
-/**This class takes input character and checks if the entered character is alphabet or digit or special character
+package main.java; /**This class takes input character and checks if the entered character is alphabet or digit or special character
  *
  * @version 1.0 31-12-2018
  *
@@ -14,7 +14,7 @@ import java.util.*;
  * @author Akshay Badiger
  */
 
-public class sorted {
+public class Sorted {
     public static void main(String[] args) {
 
         /*getting input from user*/

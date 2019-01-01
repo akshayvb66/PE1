@@ -1,4 +1,4 @@
-/**
+package main.java; /**
 *Akshay Badiger
 *
 *Boeing India Pvt Ltd
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Akshay Badiger
  */
-public class loop {
+public class Loop {
 
 
 

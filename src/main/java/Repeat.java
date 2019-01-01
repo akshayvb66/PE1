@@ -1,4 +1,4 @@
-/**
+package main.java; /**
 *Akshay Badiger
 *
 *Boeing India Pvt Ltd
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Akshay Badiger
  */
-public class repeat {
+public class Repeat {
     public static void main(String[] args) {
 
 	/*takes string as a input*/

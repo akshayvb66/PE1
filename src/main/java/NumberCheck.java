@@ -1,4 +1,5 @@
-package main.java; /**
+package main.java;
+/**
 *Akshay Badiger
 *
 *Boeing India Pvt Ltd
@@ -17,25 +18,29 @@ public class NumberCheck {
 
 
     public static void main(String[] args) {
-	/*Input the number*/
-        int number;
+        /*Input the number*/
+        int number,a;
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
-        number= scan.nextInt();
+        number = scan.nextInt();
 
-	
+        System.out.println(NumTomJerry(number));
+    }
+    public static String NumTomJerry(int a){
 	/*checks if its between 20 and 30 and prints tom and jerry*/
-        if (number>=20 && number<=30 && number%2!=0)
+        String p="";
+        if (a>=20 && a<=30 && a%2!=0)
         {
-            System.out.print("Tom");
+        p= "Tom";
         }
-        else if(number>=20 && number<=30 && number%2==0)
+        else if(a>=20 && a<=30 && a%2==0)
         {
-            System.out.print("jerry");
+            p="Jerry";
         }
 	/*if its below 20 and above 30*/
-        else
-            System.out.print("Number not in tha range");
+        else{
+        p= "error";}
+     return p;
     }
 
 

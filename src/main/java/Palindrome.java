@@ -16,25 +16,26 @@ import java.util.*;
 
 public class Palindrome {
 
-    public static void main(String[] args)
-
-    {
-	/*Taking the number as input*/
-        int originalNumber,number,reverseNumber=0,remainder,sum=0;
+    public static void main(String[] args) {
+        /*Taking the number as input*/
+        int originalNumber, number, reverseNumber = 0, reminder, sum = 0;
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
-        originalNumber=scan.nextInt();
-        number=originalNumber;
+        originalNumber = scan.nextInt();
+        number = originalNumber;
 
-	/*chech if its a palindrome*/
+        System.out.println((number));
+
+
+    /*check if its a palindrome*/
         while(number!=0)
         {
-            remainder=number%10;
-            if(remainder%2==0)
+            reminder=number%10;
+            if(reminder%2==0)
             {
-                sum=sum+remainder;
+                sum=sum+reminder;
             }
-            reverseNumber=reverseNumber*10+remainder;
+            reverseNumber=reverseNumber*10+reminder;
             number=number/10;
 
         }

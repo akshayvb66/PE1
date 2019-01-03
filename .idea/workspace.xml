@@ -3,26 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="42781023-c1af-4e83-9835-ef06a70365ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/Consonant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/Guessing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/NumberCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/repeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/sorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/stringreverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Consonant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Guessing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/display.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringreverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assign1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assign1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/repeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/stringreverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,19 +21,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/NumberCheckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -57,8 +56,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +86,13 @@
         <option value="$PROJECT_DIR$/src/main/java/display.java" />
         <option value="$PROJECT_DIR$/src/main/java/addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/Display.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/GuessingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/AddTwoNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NumberCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/NumberCheckTest.java" />
       </list>
     </option>
   </component>
@@ -90,13 +102,15 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,7 +133,21 @@
               <item name="Assign1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assign1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assign1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assign1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assign1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assign1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assign1" type="b2602c69:ProjectViewProjectNode" />
@@ -152,13 +180,21 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546367143820" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546421955541" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/main/java" />
@@ -177,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Display">
+  <component name="RunManager" selected="JUnit.NumberCheckTest.test">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Addition" />
       <module name="Assign1" />
@@ -204,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.addition" />
+    <configuration name="NumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.NumberCheck" />
       <module name="Assign1" />
       <extension name="coverage">
         <pattern>
@@ -217,27 +253,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="display" />
+    <configuration name="AddTwoNumbersTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assign1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorted" />
+    <configuration name="NumberCheckTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assign1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberCheckTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberCheckTest.test" />
+        <item itemvalue="Application.NumberCheck" />
+        <item itemvalue="JUnit.AddTwoNumbersTest.test" />
         <item itemvalue="Application.Display" />
         <item itemvalue="Application.Addition" />
-        <item itemvalue="Application.addition" />
-        <item itemvalue="Application.display" />
-        <item itemvalue="Application.sorted" />
       </list>
     </recent_temporary>
   </component>
@@ -254,11 +296,33 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 23m 29s.xml">
+      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 24m 23s.xml">
+      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 27m 05s.xml">
+      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 16s.xml">
+      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 29s.xml">
+      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 39s.xml">
+      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 46m 01s.xml">
+      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28092578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28092578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,7 +331,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.07166124" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25570032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,34 +349,6 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980047" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.07467532" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.22964169" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32960895" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/consonant.java" />
@@ -337,16 +373,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/display.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/addition.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -355,10 +382,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/GuessingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="420">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="docComment;class#Display#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Consonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Guessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NumberCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/AddTwoNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/NumberCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

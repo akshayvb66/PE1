@@ -8,13 +8,13 @@ package main.java;
 */
 import java.util.Scanner;
 /**This class takes input number and checks if it is between 20 and 30 and 
- *prints tom if its odd and jerry if its odd
+ *prints tom if its odd and jerry if its even
  * @version 1.0 31-12-2018
  *
  *
  * @author Akshay Badiger
  */
-public class NumberCheck {
+public class NumTomJerry {
 
 
     public static void main(String[] args) {

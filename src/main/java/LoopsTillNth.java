@@ -13,29 +13,36 @@ import java.util.Scanner;
  *
  * @author Akshay Badiger
  */
-public class Loop {
+public class LoopsTillNth {
 
-
-
-    public static void main(String[] args)  {
+    public static void main(String[] args) {
         int number;
-	/*takes the input*/
+        /*takes the input*/
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
         number = scan.nextInt();
-	/*looping begins from 1*/
-        for(int i=1;i<=number;i++)
+
+        LoopsTillNth num=new LoopsTillNth();
+
+        num.LoopTillN(number);
+    }
+    public String LoopTillN(int a){
+
+        StringBuilder res = new StringBuilder();
+
+
+        /*looping begins from 1*/
+        for(int i=1;i<=a;i++)
         {
-	/*loops the integers  itself*/
+	    /*loops the integers  itself*/
             for(int j=1;j<=i;j++) {
                 System.out.print(i+" ");
+                res.append(i+" ");
             }
+
         }
+        return res.toString();
 
     }
-
-
-
-
 
 }

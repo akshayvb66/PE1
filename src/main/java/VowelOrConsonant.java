@@ -15,7 +15,7 @@ import java.io.InputStreamReader;
  *
  * @author Akshay Badiger
  */
-public class Consonant {
+public class VowelOrConsonant {
 
 
     public static void main(String[] args) throws IOException
@@ -24,29 +24,47 @@ public class Consonant {
         System.out.print("enter the word");
         /*This takes input word from user*/
         String name = reader.readLine();
-        int i;
+
+        VowelOrConsonant res=new VowelOrConsonant();
+
+        res.CheckForVowel(name);
+    }
+
+
+    public static String CheckForVowel(String a){
+
+        StringBuilder result = new StringBuilder();
+
 
         /*for loop for each letter of the word*/
-        for(i=0;i<name.length();i++)
+        for(int i=0;i<a.length();i++)
         {
+
+
             /*This checks if letter is vowel and prints the same*/
-            if(name.charAt(i) == 'a' || name.charAt(i)== 'e' || name.charAt(i) == 'i'
-                    || name.charAt(i) == 'o' || name.charAt(i) == 'u'){
-                System.out.println(name.charAt(i)+"-vowel");
+            if(a.charAt(i) == 'a' || a.charAt(i)== 'e' || a.charAt(i) == 'i'
+                    || a.charAt(i) == 'o' || a.charAt(i) == 'u'){
+                System.out.println(a.charAt(i)+" is a vowel");
+                result.append("Vowel");
             }
 
             /*This one checks if its a consonant and prints the same*/
-            else if((name.charAt(i) >= 'a'&& name.charAt(i) <= 'z'))
+            else if((a.charAt(i) >= 'a'&& a.charAt(i) <= 'z'))
             {
-                System.out.println(name.charAt(i)+"-Consonent");
+                System.out.println(a.charAt(i)+" is a Consonent");
+                result.append("Consonent");
             }
             /*If it is not a alphabet it prints out error*/
             else
             {
-                System.out.println(name.charAt(i)+"Error");
+                System.out.println(a.charAt(i)+"Error");
+                result.append("Error");
             }
 
 
+
         }
+        return result.toString();
+
     }
 }

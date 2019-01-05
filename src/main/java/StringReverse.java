@@ -7,6 +7,8 @@ package main.java; /**
 */
 import java.util.*;
 import java.util.Scanner;
+import java.util.Scanner;
+
 
 /**This class takes input word and reverses it
  *
@@ -17,24 +19,27 @@ import java.util.Scanner;
 public class StringReverse {
 
     public static void main(String[] args) {
-	
-	/*taking the string input*/
+
+        /*taking the string input*/
         String name;
         Scanner sc = new Scanner(System.in);
         System.out.println("enter string");
+        String s = sc.nextLine();
+        StringReverse obj = new StringReverse();
+        obj.ReverseString(s);
+    }
 
-        name = sc.nextLine();
+    public String ReverseString(String a){
 
-
-        String str1 = name;
         String str2 = "";
 
 	/*reversing it using for loop*/
-        for (int i=str1.length()-1; i>=0; i--) {
-            str2 += str1.charAt(i);
+        for (int i=a.length()-1; i>=0; i--) {
+            str2 += a.charAt(i);
         }
 
         System.out.println(str2);
+        return str2;
 
     }
 }

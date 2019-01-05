@@ -3,13 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="42781023-c1af-4e83-9835-ef06a70365ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assign1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assign1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/repeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/sorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/stringreverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Consonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Guessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/NumberCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Repeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assign1/main/java/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assign1/main/java/StringReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Assign1/GuessingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Assign1/NumberCheckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Assign1/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/GuessingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/NumberCheckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Consonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Guessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Repeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringReverse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +40,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/CheckPalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="232">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Test/NumberCheckTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/CharacterTypeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,10 +64,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/AddingNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/SortDecreasingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/RepeatLastCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/GuessTheNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/NumTomJerryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/LoopsTillNthTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/VowelOrConsonantTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CharacterType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -85,14 +182,38 @@
         <option value="$PROJECT_DIR$/src/main/Test/displaytest.java" />
         <option value="$PROJECT_DIR$/src/main/java/display.java" />
         <option value="$PROJECT_DIR$/src/main/java/addition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Display.java" />
         <option value="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/GuessingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/Test/AddTwoNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/NumberCheck.java" />
         <option value="$PROJECT_DIR$/src/main/java/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/Test/NumberCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Consonant.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/ConsonantTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Loop.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/LoopTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Display.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/DisplayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CheckPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Repeat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/StringReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/RepeatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorted.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/SortedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/AdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Addition.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/GuessingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Guessing.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CharacterTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/AddingNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/SortDecreasingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/RepeatLastCharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/GuessTheNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/NumTomJerryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/LoopsTillNthTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/VowelOrConsonantTest.java" />
       </list>
     </option>
   </component>
@@ -103,10 +224,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
-    <option name="y" value="47" />
-    <option name="width" value="1279" />
-    <option name="height" value="701" />
+    <option name="x" value="592" />
+    <option name="y" value="27" />
+    <option name="width" value="646" />
+    <option name="height" value="661" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -116,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +277,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -180,7 +301,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546421955541" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546710030894" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -213,61 +334,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumberCheckTest.test">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Addition" />
-      <module name="Assign1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Display" />
-      <module name="Assign1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.NumberCheck" />
-      <module name="Assign1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddTwoNumbersTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in Assign1">
+    <configuration name="All in Assign1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assign1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbersTest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterTypeTest.TestForCapital" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assign1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharacterTypeTest" />
+      <option name="METHOD_NAME" value="TestForCapital" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumberTest.numberCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assign1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessTheNumberTest" />
+      <option name="METHOD_NAME" value="numberCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumTomJerryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assign1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumTomJerryTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberCheckTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VowelOrConsonantTest.TestforVowel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assign1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberCheckTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="VowelOrConsonantTest" />
+      <option name="METHOD_NAME" value="TestforVowel" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -275,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberCheckTest.test" />
-        <item itemvalue="Application.NumberCheck" />
-        <item itemvalue="JUnit.AddTwoNumbersTest.test" />
-        <item itemvalue="Application.Display" />
-        <item itemvalue="Application.Addition" />
+        <item itemvalue="JUnit.All in Assign1" />
+        <item itemvalue="JUnit.CharacterTypeTest.TestForCapital" />
+        <item itemvalue="JUnit.VowelOrConsonantTest.TestforVowel" />
+        <item itemvalue="JUnit.NumTomJerryTest.test" />
+        <item itemvalue="JUnit.GuessTheNumberTest.numberCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -297,32 +407,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 23m 29s.xml">
-      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    <history-entry file="SortedTest_TestSort - 2019.01.05 at 21h 50m 29s.xml">
+      <configuration name="SortedTest.TestSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 24m 23s.xml">
-      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    <history-entry file="DisplayTest_TestForCapital - 2019.01.05 at 21h 53m 55s.xml">
+      <configuration name="DisplayTest.TestForCapital" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_test - 2019.01.02 at 11h 27m 05s.xml">
-      <configuration name="AddTwoNumbersTest.test" configurationId="JUnit" />
+    <history-entry file="AdditionTest_AdditionTesting - 2019.01.05 at 22h 03m 04s.xml">
+      <configuration name="AdditionTest.AdditionTesting" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 16s.xml">
-      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    <history-entry file="AdditionTest_AdditionTesting - 2019.01.05 at 22h 06m 41s.xml">
+      <configuration name="AdditionTest.AdditionTesting" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 29s.xml">
-      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    <history-entry file="CheckPalindromeTest_TestForSum - 2019.01.05 at 22h 06m 57s.xml">
+      <configuration name="CheckPalindromeTest.TestForSum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 45m 39s.xml">
-      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    <history-entry file="GuessingTest_numberCheck - 2019.01.05 at 22h 19m 47s.xml">
+      <configuration name="GuessingTest.numberCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberCheckTest_test - 2019.01.02 at 14h 46m 01s.xml">
-      <configuration name="NumberCheckTest.test" configurationId="JUnit" />
+    <history-entry file="StringReverseTest_CheckReverse - 2019.01.05 at 22h 20m 19s.xml">
+      <configuration name="StringReverseTest.CheckReverse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelOrConsonantTest_TestforVowel - 2019.01.05 at 23h 10m 16s.xml">
+      <configuration name="VowelOrConsonantTest.TestforVowel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterTypeTest_TestForCapital - 2019.01.05 at 23h 10m 24s.xml">
+      <configuration name="CharacterTypeTest.TestForCapital" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Assign1 - 2019.01.05 at 23h 10m 33s.xml">
+      <configuration name="All in Assign1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28092578" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29449323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -375,57 +494,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/display.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/addition.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/GuessingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="docComment;class#Display#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Consonant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Guessing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -433,10 +501,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CheckPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Consonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="docComment;class#Display#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Guessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Repeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/AdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -450,24 +592,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/RepeatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="180">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/SortedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/DisplayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/GuessingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Test/NumberCheckTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="255">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/ConsonantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/LoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/StringReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CharacterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CheckPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/AddingNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/SortDecreasingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/GuessTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/NumTomJerryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/RepeatLastCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/LoopsTillNthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/VowelOrConsonantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CharacterTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

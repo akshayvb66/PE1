@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
  *
  * @author Akshay Badiger
  */
-public class Display {
+public class CharacterType {
 
     public static void main(String args[]) throws IOException {
         char m;
@@ -25,25 +25,39 @@ public class Display {
         System.out.print("Enter any alphabet or digit or special character:");
         m = (char) bf.read();
 
+        CharacterType obj=new CharacterType();
+        System.out.println(obj.CapitalOrSmall(m));
+
+    }
+
+    public static String CapitalOrSmall(char m){
+
+
         /*checks if the character is a capital letter*/
         if (m >= 97 && m <= 123) {
             System.out.println("Its a Capital letter");
+            return "capital";
         }
 
         /*checks if the character is a small letter*/
         else if (m >= 65 && m <= 96) {
             System.out.println("Its a small letter");
+            return "small";
+
         }
 
         /*checks if the character is a digit*/
         else if (m >= 48 && m <= 57) {
             System.out.println("Its a Digit");
+            return "digit";
         }
 
 
         /*checks if the character is a  special character*/
         else {
             System.out.println("Its a Special character");
+            return "special";
+
         }
     }
 
